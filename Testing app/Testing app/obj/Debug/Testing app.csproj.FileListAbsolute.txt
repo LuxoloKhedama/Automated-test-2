@@ -1,0 +1,5 @@
+c:\users\lullo\documents\visual studio 2013\Projects\Testing app\Testing app\bin\Debug\Testing app.exe.config
+c:\users\lullo\documents\visual studio 2013\Projects\Testing app\Testing app\bin\Debug\Testing app.exe
+c:\users\lullo\documents\visual studio 2013\Projects\Testing app\Testing app\bin\Debug\Testing app.pdb
+c:\users\lullo\documents\visual studio 2013\Projects\Testing app\Testing app\obj\Debug\Testing app.exe
+c:\users\lullo\documents\visual studio 2013\Projects\Testing app\Testing app\obj\Debug\Testing app.pdb
